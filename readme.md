@@ -22,5 +22,5 @@ docker exec -idt -v $(pwd):/riscv_programing_pratice --name riscv_programing_pra
 
 ## 相关参考
 
-https://dev.to/0xbf/set-timezone-in-your-docker-image-d22#
-https://www.runoob.com/docker/docker-dockerfile.html
+- https://dev.to/0xbf/set-timezone-in-your-docker-image-d22#
+- https://www.runoob.com/docker/docker-dockerfile.html
